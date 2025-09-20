@@ -1,0 +1,36 @@
+# Ignored Folders
+/Library/
+/Logs/
+/Temp/
+/Obj/
+/Build/
+/UserSettings
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio files
+.vs/
+*.csproj
+*.unityproj
+*.sln.DotSettings
+*.user
+
+# Memory Snapshots
+*.hprof
+
+# Build results
+*.apk
+*.aab
+*.xap
+*.exe
+*.msi
+*.app
+*.bin
+*.unitypackage
+*.pdb
+
+
+
+.DS_Store
+
